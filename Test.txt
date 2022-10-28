@@ -6,3 +6,11 @@ How about that ?
 Commands : 
 new dir : mkdir DIRNAME
 new file : nano FILENAME
+
+
+
+git : 
+add : git add FILENAME
+commit : git commit -m"MESSAGE"
+push : git push 
+pull : git pull
