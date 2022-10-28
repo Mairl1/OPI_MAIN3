@@ -1,2 +1,8 @@
 This is another test by Merlin Fouché
 How about that ? 
+
+
+
+Commands : 
+new dir : mkdir DIRNAME
+new file : nano FILENAME
